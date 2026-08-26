@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2027639613045739521",
+    "created_at": "2026-06-08T18:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T19:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064049174090547247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766084836572172288",
+          "start": 0,
+          "username": "Smertkakput12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064049174090547247",
+    "in_reply_to_user_id": "1766084836572172288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027639613045739521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Smertkakput12 寶寶互fo嗎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027639566807769088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOfcXAaoAA52Rt.jpg",
+        "width": 1522
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027639566816202753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOfcXCbUAEddPB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2027639613045739521",
+        "created_at": "2026-06-08T18:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064049174090547247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766084836572172288",
+              "start": 0,
+              "username": "Smertkakput12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064049174090547247",
+        "in_reply_to_user_id": "1766084836572172288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027639613045739521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smertkakput12 寶寶互fo嗎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027639566807769088",
+            "3_2027639566816202753"
+          ]
+        },
+        "author_id": "1766084836572172288",
+        "conversation_id": "2027639613045739521",
+        "created_at": "2026-02-28T06:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027639613045739521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7yV2kJe4K",
+              "end": 122,
+              "expanded_url": "https://x.com/Smertkakput12/status/2027639613045739521/photo/1",
+              "media_key": "3_2027639566807769088",
+              "start": 99,
+              "url": "https://t.co/j7yV2kJe4K"
+            },
+            {
+              "display_url": "pic.x.com/j7yV2kJe4K",
+              "end": 122,
+              "expanded_url": "https://x.com/Smertkakput12/status/2027639613045739521/photo/1",
+              "media_key": "3_2027639566816202753",
+              "start": 99,
+              "url": "https://t.co/j7yV2kJe4K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027639613045739521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 55658,
+          "like_count": 203,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "^ω^我是林鸽\n关键词：自残 烟酒都来 女朋友 穿孔 空针 od药理兴趣 音乐 pingu 耳郎响香\n拒心理男顺直 品客 同类互fo \n喜欢交朋友想和我玩的女孩可以随时私信我！\n女孩们可以和我互转 https://t.co/j7yV2kJe4K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 68,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 92
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T12:53:44.000Z",
+        "description": "女｜mha｜18歲家里蹲\n女同有对象\n拒绝男的/鉴证",
+        "id": "1766084836572172288",
+        "name": "林鴿TTttt",
+        "pinned_tweet_id": "2027639613045739521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029163126839754752/qrVxto-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 651,
+          "like_count": 1863,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1377
+        },
+        "username": "Smertkakput12",
+        "verified": false
+      }
+    ]
+  }
+}

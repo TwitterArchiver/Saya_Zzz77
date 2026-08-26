@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2091498672911745453",
+    "created_at": "2026-08-23T12:11:56.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T13:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091498672911745453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869639753278296064",
+          "start": 3,
+          "username": "HoneySe7en29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091498672911745453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 340
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091207587958346040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HoneySe7en29: 安全词是啥啊我他妈快被生活操死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2091498672911745453",
+        "created_at": "2026-08-23T12:11:56.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091498672911745453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869639753278296064",
+              "start": 3,
+              "username": "HoneySe7en29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091498672911745453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 340
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091207587958346040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HoneySe7en29: 安全词是啥啊我他妈快被生活操死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869639753278296064",
+        "conversation_id": "2091207587958346040",
+        "created_at": "2026-08-22T16:55:16.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091207587958346040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091207587958346040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 311697,
+          "like_count": 3798,
+          "quote_count": 23,
+          "reply_count": 319,
+          "retweet_count": 340
+        },
+        "reply_settings": "everyone",
+        "text": "安全词是啥啊我他妈快被生活操死了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n入🚪請看置頂p1～",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "🔪💊🩸",
+        "most_recent_tweet_id": "2091498672911745453",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2091104886553559041",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 130,
+          "like_count": 698,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 311
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-19T07:04:00.000Z",
+        "description": "女｜泛性恋｜entp｜喜欢有礼貌的人",
+        "id": "1869639753278296064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091434276130898155",
+        "name": "se7en29",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869639753278296064/1738002228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875257584602783744/TSWNRc0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 171,
+          "like_count": 3703,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1102
+        },
+        "url": "",
+        "username": "HoneySe7en29",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

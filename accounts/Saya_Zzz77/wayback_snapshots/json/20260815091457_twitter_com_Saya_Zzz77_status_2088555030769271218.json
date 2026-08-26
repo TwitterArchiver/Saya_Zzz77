@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086750948253220864"
+      ],
+      "media_source_tweet_id": [
+        "2086750959103844363"
+      ]
+    },
+    "author_id": "2032064554684026880",
+    "conversation_id": "2088555030769271218",
+    "created_at": "2026-08-15T09:14:57.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088555030769271218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1905142973702033408",
+          "start": 3,
+          "username": "xenoruidismo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o0rfRoQNZf",
+          "end": 53,
+          "expanded_url": "https://x.com/xenoruidismo/status/2086750959103844363/photo/1",
+          "media_key": "3_2086750948253220864",
+          "start": 30,
+          "url": "https://t.co/o0rfRoQNZf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088555030769271218",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2086750948253220864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 329
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086750959103844363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xenoruidismo: ㅤ(/▽＼*)｡o○♡ https://t.co/o0rfRoQNZf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2368,
+        "media_key": "3_2086750948253220864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWg7m1XwAA6eOZ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086750948253220864"
+          ],
+          "media_source_tweet_id": [
+            "2086750959103844363"
+          ]
+        },
+        "author_id": "2032064554684026880",
+        "conversation_id": "2088555030769271218",
+        "created_at": "2026-08-15T09:14:57.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088555030769271218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1905142973702033408",
+              "start": 3,
+              "username": "xenoruidismo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o0rfRoQNZf",
+              "end": 53,
+              "expanded_url": "https://x.com/xenoruidismo/status/2086750959103844363/photo/1",
+              "media_key": "3_2086750948253220864",
+              "start": 30,
+              "url": "https://t.co/o0rfRoQNZf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088555030769271218",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2086750948253220864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 329
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086750959103844363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xenoruidismo: ㅤ(/▽＼*)｡o○♡ https://t.co/o0rfRoQNZf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086750948253220864"
+          ]
+        },
+        "author_id": "1905142973702033408",
+        "conversation_id": "2086750959103844363",
+        "created_at": "2026-08-10T09:46:13.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T10:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086750959103844363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o0rfRoQNZf",
+              "end": 35,
+              "expanded_url": "https://x.com/xenoruidismo/status/2086750959103844363/photo/1",
+              "media_key": "3_2086750948253220864",
+              "start": 12,
+              "url": "https://t.co/o0rfRoQNZf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086750959103844363",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2086750948253220864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 20245,
+          "like_count": 1948,
+          "quote_count": 8,
+          "reply_count": 20,
+          "retweet_count": 329
+        },
+        "reply_settings": "everyone",
+        "text": "ㅤ(/▽＼*)｡o○♡ https://t.co/o0rfRoQNZf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "💊🩸🔪",
+        "most_recent_tweet_id": "2088555030769271218",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2083677542167491044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 91,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-27T06:21:01.000Z",
+        "description": "ㅤ      ㅤ    ꒰^ .⏑ ⩊ ⏑. ^꒱\n෧  #leileitwt   𐂯   ㅤ🇵🇸\nㅤㅤㅤㅤㅤㅤㅤㅤ   #heterofobiatwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 29,
+                "tag": "leileitwt"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "tag": "heterofobiatwt"
+              }
+            ]
+          }
+        },
+        "id": "1905142973702033408",
+        "is_identity_verified": false,
+        "location": "ㅤㅤ",
+        "most_recent_tweet_id": "2088466984677552457",
+        "name": "𑁭 h2o ₊˚ෆ lvs leilei",
+        "pinned_tweet_id": "1922895979893641323",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905142973702033408/1786341960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087391298789482496/sWpKYpKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 140,
+          "like_count": 20819,
+          "listed_count": 5,
+          "media_count": 1418,
+          "tweet_count": 10454
+        },
+        "url": "",
+        "username": "xenoruidismo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

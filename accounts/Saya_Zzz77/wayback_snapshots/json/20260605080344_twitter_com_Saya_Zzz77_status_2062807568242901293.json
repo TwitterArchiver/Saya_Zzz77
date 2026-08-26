@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062807561695547392"
+      ]
+    },
+    "author_id": "2032064554684026880",
+    "conversation_id": "2062807568242901293",
+    "created_at": "2026-06-05T08:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062807568242901293"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "平成ギャル"
+        },
+        {
+          "end": 12,
+          "start": 7,
+          "tag": "ギャル男"
+        },
+        {
+          "end": 20,
+          "start": 13,
+          "tag": "gyaruo"
+        },
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "y2k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nUz1tQ7W6u",
+          "end": 49,
+          "expanded_url": "https://x.com/Saya_Zzz77/status/2062807568242901293/photo/1",
+          "media_key": "3_2062807561695547392",
+          "start": 26,
+          "url": "https://t.co/nUz1tQ7W6u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062807568242901293",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#平成ギャル #ギャル男 #gyaruo #y2k https://t.co/nUz1tQ7W6u"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062807568242901293].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062807568242901293",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062807568242901293"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062807561695547392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCQjFLaUAAbk2Z.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互转互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 51,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 62
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      }
+    ]
+  }
+}

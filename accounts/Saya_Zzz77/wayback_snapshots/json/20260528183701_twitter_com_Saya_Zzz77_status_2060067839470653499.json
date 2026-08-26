@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2060067839470653499",
+    "created_at": "2026-05-28T18:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060067839470653499"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060067839470653499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "討厭來例假，我想手沖我想卡泡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2060067839470653499",
+        "created_at": "2026-05-28T18:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060067839470653499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060067839470653499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "討厭來例假，我想手沖我想卡泡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休",
+        "id": "2032064554684026880",
+        "name": "紗Saya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 18,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 20
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      }
+    ]
+  }
+}

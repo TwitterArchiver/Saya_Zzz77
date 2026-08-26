@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067277828845182976"
+      ]
+    },
+    "author_id": "2032064554684026880",
+    "conversation_id": "2067277834524242331",
+    "created_at": "2026-06-17T16:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067277834524242331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q42LDGleWc",
+          "end": 32,
+          "expanded_url": "https://x.com/Saya_Zzz77/status/2067277834524242331/photo/1",
+          "media_key": "3_2067277828845182976",
+          "start": 9,
+          "url": "https://t.co/q42LDGleWc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067277834524242331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我頭髮怎麼粉了。 https://t.co/q42LDGleWc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2067277828845182976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLByO4BboAAeh_x.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067277828845182976"
+          ]
+        },
+        "author_id": "2032064554684026880",
+        "conversation_id": "2067277834524242331",
+        "created_at": "2026-06-17T16:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067277834524242331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q42LDGleWc",
+              "end": 32,
+              "expanded_url": "https://x.com/Saya_Zzz77/status/2067277834524242331/photo/1",
+              "media_key": "3_2067277828845182976",
+              "start": 9,
+              "url": "https://t.co/q42LDGleWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067277834524242331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我頭髮怎麼粉了。 https://t.co/q42LDGleWc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 78,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false
+      }
+    ]
+  }
+}

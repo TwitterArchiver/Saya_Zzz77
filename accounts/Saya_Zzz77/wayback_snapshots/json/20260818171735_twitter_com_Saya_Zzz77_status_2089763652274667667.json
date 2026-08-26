@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2089763652274667667",
+    "created_at": "2026-08-18T17:17:35.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T18:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089763652274667667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dogewlfi/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/dogewlfi/status/2089247053960679820",
+          "start": 2,
+          "url": "https://t.co/1tZrvism5Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089763652274667667",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089247053960679820",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/1tZrvism5Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5186873,
+        "height": 480,
+        "media_key": "13_2089206347082706944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089206347082706944/img/mZokIaEV4vmnED9Y.jpg",
+        "public_metrics": {
+          "view_count": 1925787
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089206347082706944/vid/avc1/478x270/hxAR04UYTYi6FBgn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089206347082706944/vid/avc1/638x360/5yOfAKbjLn9FV8ex.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089206347082706944/vid/avc1/852x480/LNmI7TM9maM4Gf-m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089206347082706944/pl/n-9uKoaRLGb2M1hn.m3u8"
+          }
+        ],
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2089763652274667667",
+        "created_at": "2026-08-18T17:17:35.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089763652274667667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dogewlfi/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/dogewlfi/status/2089247053960679820",
+              "start": 2,
+              "url": "https://t.co/1tZrvism5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089763652274667667",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089247053960679820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/1tZrvism5Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089206347082706944"
+          ]
+        },
+        "author_id": "1904143635563872256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2089247053960679820",
+        "created_at": "2026-08-17T07:04:48.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T08:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089247053960679820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AL1Zeicuvz",
+              "end": 50,
+              "expanded_url": "https://x.com/dogewlfi/status/2089247053960679820/video/1",
+              "media_key": "13_2089206347082706944",
+              "start": 27,
+              "url": "https://t.co/AL1Zeicuvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089247053960679820",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089206347082706944"
+          }
+        ],
+        "note_request_suggestions": [
+          {
+            "suggestion": "He steals the movie",
+            "suggestion_id": "2089689270416257194"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27822,
+          "impression_count": 4062553,
+          "like_count": 66021,
+          "quote_count": 566,
+          "reply_count": 1641,
+          "retweet_count": 6609
+        },
+        "reply_settings": "everyone",
+        "text": "找到了 牛来 电影的完整版本 大家不用担心被下架啦。 https://t.co/AL1Zeicuvz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "💊🩸🔪",
+        "most_recent_tweet_id": "2089763652274667667",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2083677542167491044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 84,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-24T12:10:14.000Z",
+        "description": "#狗狗币 10X建设者   | $WLFI $DOGE 持有者 💎✋️ ⚠️ 推文非投资建议 · DYOR",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 21,
+                "start": 16,
+                "tag": "WLFI"
+              },
+              {
+                "end": 27,
+                "start": 22,
+                "tag": "DOGE"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "狗狗币"
+              }
+            ]
+          }
+        },
+        "id": "1904143635563872256",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2089755374379467101",
+        "name": "JY",
+        "pinned_tweet_id": "1935730484400783813",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904143635563872256/1786190848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083191924530532352/DC9tZnGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14148,
+          "following_count": 8394,
+          "like_count": 36967,
+          "listed_count": 18,
+          "media_count": 1215,
+          "tweet_count": 15418
+        },
+        "url": "",
+        "username": "dogewlfi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060057390368890880"
+      ]
+    },
+    "author_id": "2032064554684026880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2060057396316455328",
+    "created_at": "2026-05-28T17:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T18:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060057396316455328"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mTikoc9WHD",
+          "end": 23,
+          "expanded_url": "https://x.com/Saya_Zzz77/status/2060057396316455328/photo/1",
+          "media_key": "3_2060057390368890880",
+          "start": 0,
+          "url": "https://t.co/mTikoc9WHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060057396316455328",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/mTikoc9WHD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060057390368890880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbLSCnbIAAOxxs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060057390368890880"
+          ]
+        },
+        "author_id": "2032064554684026880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060057396316455328",
+        "created_at": "2026-05-28T17:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060057396316455328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mTikoc9WHD",
+              "end": 23,
+              "expanded_url": "https://x.com/Saya_Zzz77/status/2060057396316455328/photo/1",
+              "media_key": "3_2060057390368890880",
+              "start": 0,
+              "url": "https://t.co/mTikoc9WHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060057396316455328",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mTikoc9WHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休",
+        "id": "2032064554684026880",
+        "name": "紗Saya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 19,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 19
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2051714142550261825",
+    "created_at": "2026-05-05T17:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T18:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051714142550261825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004736029463646208",
+          "start": 3,
+          "username": "aribudincita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051714142550261825",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29603
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051117494014714277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aribudincita: yo a los 12: che porque no me mato\nyo a los 13: che porque no me mato\nyo a los 14: che porque no me mato \nyo a los 15: ch…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2051714142550261825",
+        "created_at": "2026-05-05T17:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051714142550261825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004736029463646208",
+              "start": 3,
+              "username": "aribudincita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051714142550261825",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29603
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051117494014714277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aribudincita: yo a los 12: che porque no me mato\nyo a los 13: che porque no me mato\nyo a los 14: che porque no me mato \nyo a los 15: ch…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004736029463646208",
+        "conversation_id": "2051117494014714277",
+        "created_at": "2026-05-04T01:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051117494014714277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051117494014714277",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3284,
+          "impression_count": 1751263,
+          "like_count": 112648,
+          "quote_count": 774,
+          "reply_count": 186,
+          "retweet_count": 29603
+        },
+        "reply_settings": "everyone",
+        "text": "yo a los 12: che porque no me mato\nyo a los 13: che porque no me mato\nyo a los 14: che porque no me mato \nyo a los 15: che porque no me mato\nyo a los 16: che porque no me mato\nyo a los 17: che porque no me mato\nyo a los 18: che porque no me mato"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休",
+        "id": "2032064554684026880",
+        "name": "紗Saya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 18
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T02:08:18.000Z",
+        "description": "ballin de verdad",
+        "id": "2004736029463646208",
+        "name": "ariadna",
+        "pinned_tweet_id": "2048211139155169692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035762374729474048/HQ53YLU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3956,
+          "following_count": 1794,
+          "like_count": 4913,
+          "listed_count": 26,
+          "media_count": 901,
+          "tweet_count": 15040
+        },
+        "username": "aribudincita",
+        "verified": false
+      }
+    ]
+  }
+}

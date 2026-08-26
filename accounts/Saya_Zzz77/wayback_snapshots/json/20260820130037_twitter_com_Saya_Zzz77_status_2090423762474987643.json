@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2090423762474987643",
+    "created_at": "2026-08-20T13:00:37.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T14:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090423762474987643"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "门槛"
+        },
+        {
+          "end": 102,
+          "start": 98,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 107,
+          "start": 103,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "母狗"
+        },
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "可线下"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "半绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2089440065780953088",
+          "start": 3,
+          "username": "NainaiTvT0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/uaCH1",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/uaCH1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090423762474987643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089997881746882579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NainaiTvT0: 回归本行求入门求私信呀\n前号已挂这个是新号🥺可验证\n哥哥姐姐爸爸妈妈主人们\n最多半绿哈 不非绿\n可验证 可主动可线下\n马赛克是半绿内容 私信我发\n#门槛妹 #门槛 #爸爸活 #妈妈活 #母狗 #可线下 #半绿 https://t.co/uaCH1…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089997844946026496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEp93lXAAAdFuI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 842,
+        "media_key": "3_2089997844946059264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEp93lXgAA1A0_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2090423762474987643",
+        "created_at": "2026-08-20T13:00:37.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090423762474987643"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "门槛"
+            },
+            {
+              "end": 102,
+              "start": 98,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "母狗"
+            },
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "可线下"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "半绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2089440065780953088",
+              "start": 3,
+              "username": "NainaiTvT0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/uaCH1",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/uaCH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090423762474987643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089997881746882579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NainaiTvT0: 回归本行求入门求私信呀\n前号已挂这个是新号🥺可验证\n哥哥姐姐爸爸妈妈主人们\n最多半绿哈 不非绿\n可验证 可主动可线下\n马赛克是半绿内容 私信我发\n#门槛妹 #门槛 #爸爸活 #妈妈活 #母狗 #可线下 #半绿 https://t.co/uaCH1…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089997844946026496",
+            "3_2089997844946059264"
+          ]
+        },
+        "author_id": "2089440065780953088",
+        "conversation_id": "2089997881746882579",
+        "created_at": "2026-08-19T08:48:19.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089997881746882579"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "门槛"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "母狗"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "可线下"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "半绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uaCH1STOug",
+              "end": 128,
+              "expanded_url": "https://x.com/NainaiTvT0/status/2089997881746882579/photo/1",
+              "media_key": "3_2089997844946026496",
+              "start": 105,
+              "url": "https://t.co/uaCH1STOug"
+            },
+            {
+              "display_url": "pic.x.com/uaCH1STOug",
+              "end": 128,
+              "expanded_url": "https://x.com/NainaiTvT0/status/2089997881746882579/photo/1",
+              "media_key": "3_2089997844946059264",
+              "start": 105,
+              "url": "https://t.co/uaCH1STOug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089997881746882579",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089997844946026496"
+          },
+          {
+            "media_key": "3_2089997844946059264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "回归本行求入门求私信呀\n前号已挂这个是新号🥺可验证\n哥哥姐姐爸爸妈妈主人们\n最多半绿哈 不非绿\n可验证 可主动可线下\n马赛克是半绿内容 私信我发\n#门槛妹 #门槛 #爸爸活 #妈妈活 #母狗 #可线下 #半绿 https://t.co/uaCH1STOug"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "💊🩸🔪",
+        "most_recent_tweet_id": "2090423762474987643",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2083677542167491044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 101,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T19:52:38.000Z",
+        "description": "耐耐/07/有🚪/可互fo互转\n可免费验证 有意向💌 不接非绿",
+        "id": "2089440065780953088",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2090107466872692868",
+        "name": "Nainai",
+        "pinned_tweet_id": "2089997881746882579",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089440065780953088/1787137880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090033822213525504/HrxsPNDE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 1,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "NainaiTvT0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

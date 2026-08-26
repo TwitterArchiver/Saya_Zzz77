@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061907567413186560"
+      ]
+    },
+    "author_id": "2032064554684026880",
+    "conversation_id": "2061907573536858551",
+    "created_at": "2026-06-02T20:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T21:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061907573536858551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jLmrihsUOu",
+          "end": 28,
+          "expanded_url": "https://x.com/Saya_Zzz77/status/2061907573536858551/photo/1",
+          "media_key": "3_2061907567413186560",
+          "start": 5,
+          "url": "https://t.co/jLmrihsUOu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061907573536858551",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "찬 공기 https://t.co/jLmrihsUOu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061907573536858551].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061907573536858551",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061907573536858551"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061907567413186560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ1eAhNaUAAnh-s.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休",
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2060807431404613945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 27,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 27
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      }
+    ]
+  }
+}

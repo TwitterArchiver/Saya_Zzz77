@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2062972429648241062",
+    "created_at": "2026-06-05T18:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T19:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062972429648241062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1523311078641639424",
+          "start": 3,
+          "username": "_____fwry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062972429648241062",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 982
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062198194872975717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_____fwry: 自殺だけしたい、痛くないやつ、怖くないやつ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2062972429648241062",
+        "created_at": "2026-06-05T18:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062972429648241062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1523311078641639424",
+              "start": 3,
+              "username": "_____fwry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062972429648241062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 982
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062198194872975717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_____fwry: 自殺だけしたい、痛くないやつ、怖くないやつ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523311078641639424",
+        "conversation_id": "2062198194872975717",
+        "created_at": "2026-06-03T15:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062198194872975717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062198194872975717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 109682,
+          "like_count": 5672,
+          "quote_count": 31,
+          "reply_count": 30,
+          "retweet_count": 982
+        },
+        "reply_settings": "everyone",
+        "text": "自殺だけしたい、痛くないやつ、怖くないやつ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 59,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 67
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-08T14:37:49.000Z",
+        "description": "ラブレターの下書き",
+        "id": "1523311078641639424",
+        "name": "dot",
+        "pinned_tweet_id": "1904928072690000263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001968361010610176/X5el7Qcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 164,
+          "like_count": 7946,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1773
+        },
+        "username": "_____fwry",
+        "verified": false
+      }
+    ]
+  }
+}

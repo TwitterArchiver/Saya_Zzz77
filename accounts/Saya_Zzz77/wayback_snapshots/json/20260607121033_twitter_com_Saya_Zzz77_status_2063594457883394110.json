@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063594454481809408"
+      ]
+    },
+    "author_id": "2032064554684026880",
+    "conversation_id": "2063594457883394110",
+    "created_at": "2026-06-07T12:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063594457883394110"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Take the quiz that no one survives. Discover your dumbest possible way to die.",
+          "display_url": "infinitetweet.me/dumb-ways-to-d…",
+          "end": 39,
+          "expanded_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2061382102365413377/Ux5BCuo-?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2061382102365413377/Ux5BCuo-?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "Dumb Ways to Die • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+          "url": "https://t.co/o2n0bvAd7l"
+        },
+        {
+          "display_url": "pic.x.com/pxr5s4wJok",
+          "end": 63,
+          "expanded_url": "https://x.com/Saya_Zzz77/status/2063594457883394110/photo/1",
+          "media_key": "3_2063594454481809408",
+          "start": 40,
+          "url": "https://t.co/pxr5s4wJok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063594457883394110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我死的方式和时间\n\n⠀➡️ https://t.co/o2n0bvAd7l https://t.co/pxr5s4wJok"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063594457883394110].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063594457883394110",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063594457883394110"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 455,
+        "media_key": "3_2063594454481809408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNcORPasAAz9oi.png",
+        "width": 600
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 64,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 80
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2051642730087154150",
+    "created_at": "2026-05-05T12:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T13:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051642730087154150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/foen477/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/foen477/status/2051312615658590365",
+          "start": 11,
+          "url": "https://t.co/bzpIiMMX0f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051642730087154150",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051312615658590365",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我受不了了我笑的逼疼 https://t.co/bzpIiMMX0f"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2051642730087154150",
+        "created_at": "2026-05-05T12:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051642730087154150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foen477/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/foen477/status/2051312615658590365",
+              "start": 11,
+              "url": "https://t.co/bzpIiMMX0f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051642730087154150",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051312615658590365",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我受不了了我笑的逼疼 https://t.co/bzpIiMMX0f"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964680698352291840",
+        "conversation_id": "2051306351263932627",
+        "created_at": "2026-05-04T14:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051312615658590365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1504090019971010562",
+              "start": 0,
+              "username": "Deepfeeling777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051312615658590365",
+        "in_reply_to_user_id": "1504090019971010562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 229412,
+          "like_count": 5486,
+          "quote_count": 36,
+          "reply_count": 132,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051306351263932627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deepfeeling777 神经啊嘴里有G点，那吃个饭一直高潮啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休",
+        "id": "2032064554684026880",
+        "name": "紗Saya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T13:22:41.000Z",
+        "description": "现实世界好累啊，多看一点涩涩的东西好了",
+        "id": "1964680698352291840",
+        "name": "4777777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029782711175663616/LepM6G4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 20,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "foen477",
+        "verified": false
+      }
+    ]
+  }
+}

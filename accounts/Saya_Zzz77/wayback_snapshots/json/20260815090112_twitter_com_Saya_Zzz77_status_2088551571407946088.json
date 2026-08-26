@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2088551571407946088",
+    "created_at": "2026-08-15T09:01:12.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088551571407946088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1597251393592532995",
+          "start": 3,
+          "username": "mianmian0519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088551571407946088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087892593635934566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mianmian0519: 200fo了！🎉\n搞个小福利\n转发关注评论抽一人送橙普一盒\n一人送玉米片一盒\n三人5.2小红包\n欢迎同好找我互fo呀🥳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2088551571407946088",
+        "created_at": "2026-08-15T09:01:12.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088551571407946088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1597251393592532995",
+              "start": 3,
+              "username": "mianmian0519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088551571407946088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087892593635934566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mianmian0519: 200fo了！🎉\n搞个小福利\n转发关注评论抽一人送橙普一盒\n一人送玉米片一盒\n三人5.2小红包\n欢迎同好找我互fo呀🥳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597251393592532995",
+        "conversation_id": "2087892593635934566",
+        "created_at": "2026-08-13T13:22:40.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087892593635934566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087892593635934566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1916,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "200fo了！🎉\n搞个小福利\n转发关注评论抽一人送橙普一盒\n一人送玉米片一盒\n三人5.2小红包\n欢迎同好找我互fo呀🥳"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "💊🩸🔪",
+        "most_recent_tweet_id": "2088551571407946088",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2083677542167491044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 91,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T15:29:51.000Z",
+        "description": "intp\n只回关同好",
+        "id": "1597251393592532995",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088537676278284756",
+        "name": "minaz",
+        "pinned_tweet_id": "2082123492582195367",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063250363445137408/15-qQaZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 161,
+          "like_count": 1313,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "mianmian0519",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

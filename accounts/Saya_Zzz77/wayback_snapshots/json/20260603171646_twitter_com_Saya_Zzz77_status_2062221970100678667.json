@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2062139382874665056",
+    "created_at": "2026-06-03T17:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062221970100678667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1349358882272010242",
+          "start": 0,
+          "username": "Senidciide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062221970100678667",
+    "in_reply_to_user_id": "1349358882272010242",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062139382874665056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Senidciide Happy birthday!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2062139382874665056",
+        "created_at": "2026-06-03T17:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062221970100678667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1349358882272010242",
+              "start": 0,
+              "username": "Senidciide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062221970100678667",
+        "in_reply_to_user_id": "1349358882272010242",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062139382874665056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Senidciide Happy birthday!!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1349358882272010242",
+        "conversation_id": "2062139382874665056",
+        "created_at": "2026-06-03T11:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062139382874665056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062139382874665056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Can you guys wish me happy birthday.\nSorry I feel stupid for crying that no one’s wished me it\n14 year old me was right"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en\n🔪💊/同類和cos互fo/擴列私信我",
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 43,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 51
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-13T14:13:28.000Z",
+        "description": "freakmaxing\ncgw:150lbs/72kg\ncw:171lbs/77kg\nsw:190lbs/86kg",
+        "id": "1349358882272010242",
+        "location": "freak island ",
+        "name": "✩°｡⋆⸜",
+        "pinned_tweet_id": "2042070253568471330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061985530015842304/Pgj4Ws7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 67,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 162
+        },
+        "username": "Senidciide",
+        "verified": false
+      }
+    ]
+  }
+}

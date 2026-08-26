@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2061966057061921277",
+    "created_at": "2026-06-03T17:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062220170266067241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1738982384929013760",
+          "start": 0,
+          "username": "Strawberryou206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062220170266067241",
+    "in_reply_to_user_id": "1738982384929013760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061966057061921277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strawberryou206 啊啊你好漂亮呀，竟然讚了我的帖，🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1191,
+        "media_key": "3_2061966040704122880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2TMHMWgAAjgEe.jpg",
+        "width": 1206
+      },
+      {
+        "height": 782,
+        "media_key": "3_2061966040704188416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2TMHMXgAA6wdY.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1357,
+        "media_key": "3_2061966040691589122",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2TMHJXQAIMHyT.jpg",
+        "width": 1031
+      },
+      {
+        "height": 1497,
+        "media_key": "3_2061966040708378624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2TMHNXcAAz9y-.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2061966057061921277",
+        "created_at": "2026-06-03T17:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062220170266067241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738982384929013760",
+              "start": 0,
+              "username": "Strawberryou206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062220170266067241",
+        "in_reply_to_user_id": "1738982384929013760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061966057061921277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strawberryou206 啊啊你好漂亮呀，竟然讚了我的帖，🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061966040704122880",
+            "3_2061966040704188416",
+            "3_2061966040691589122",
+            "3_2061966040708378624"
+          ]
+        },
+        "author_id": "1738982384929013760",
+        "conversation_id": "2061966057061921277",
+        "created_at": "2026-06-03T00:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061966057061921277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksdcbiTBQP",
+              "end": 32,
+              "expanded_url": "https://x.com/Ghaso52Yys96682/status/2061966057061921277/photo/1",
+              "media_key": "3_2061966040704122880",
+              "start": 9,
+              "url": "https://t.co/ksdcbiTBQP"
+            },
+            {
+              "display_url": "pic.x.com/ksdcbiTBQP",
+              "end": 32,
+              "expanded_url": "https://x.com/Ghaso52Yys96682/status/2061966057061921277/photo/1",
+              "media_key": "3_2061966040704188416",
+              "start": 9,
+              "url": "https://t.co/ksdcbiTBQP"
+            },
+            {
+              "display_url": "pic.x.com/ksdcbiTBQP",
+              "end": 32,
+              "expanded_url": "https://x.com/Ghaso52Yys96682/status/2061966057061921277/photo/1",
+              "media_key": "3_2061966040691589122",
+              "start": 9,
+              "url": "https://t.co/ksdcbiTBQP"
+            },
+            {
+              "display_url": "pic.x.com/ksdcbiTBQP",
+              "end": 32,
+              "expanded_url": "https://x.com/Ghaso52Yys96682/status/2061966057061921277/photo/1",
+              "media_key": "3_2061966040708378624",
+              "start": 9,
+              "url": "https://t.co/ksdcbiTBQP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061966057061921277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我會一直白毛的呀 https://t.co/ksdcbiTBQP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\n🔪💊/同類和cos互fo/擴列私信我",
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 43,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 48
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T17:58:25.000Z",
+        "description": "我是佑祐真/小愛/kana\n🇩🇪🇫🇷🇭🇰混血\n稱呼隨意 歡迎互fo\n⚠️ Bipolar Pansexual Overdose\n中文/英文/法文👌\n我希望每一個人都能在藥物中得到幸福。",
+        "id": "1738982384929013760",
+        "name": "おやすみいちご祐",
+        "pinned_tweet_id": "2061966057061921277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061982364541059072/rB80nQc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 75,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 88
+        },
+        "username": "Strawberryou206",
+        "verified": false
+      }
+    ]
+  }
+}

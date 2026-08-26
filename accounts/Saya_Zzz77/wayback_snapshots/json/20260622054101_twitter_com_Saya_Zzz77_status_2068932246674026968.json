@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2068805219950154060",
+    "created_at": "2026-06-22T05:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T06:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068932246674026968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1919426616046059520",
+          "start": 0,
+          "username": "ytng7853591"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068932246674026968",
+    "in_reply_to_user_id": "1919426616046059520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068805219950154060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ytng7853591 好漂亮好憂鬱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068805207480492032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXfYA1aYAAUrGr.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2068805219950154060",
+        "created_at": "2026-06-22T05:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068932246674026968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919426616046059520",
+              "start": 0,
+              "username": "ytng7853591"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068932246674026968",
+        "in_reply_to_user_id": "1919426616046059520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068805219950154060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ytng7853591 好漂亮好憂鬱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068805207480492032"
+          ]
+        },
+        "author_id": "1919426616046059520",
+        "conversation_id": "2068805219950154060",
+        "created_at": "2026-06-21T21:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068805219950154060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZswgHhBOUR",
+              "end": 23,
+              "expanded_url": "https://x.com/ytng7853591/status/2068805219950154060/photo/1",
+              "media_key": "3_2068805207480492032",
+              "start": 0,
+              "url": "https://t.co/ZswgHhBOUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068805219950154060",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZswgHhBOUR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 78,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T16:19:22.000Z",
+        "description": "婊子不要过来🚪52",
+        "id": "1919426616046059520",
+        "name": "濒临死亡的你如此可爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066947188660604928/YlSznjNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 26,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "ytng7853591",
+        "verified": false
+      }
+    ]
+  }
+}

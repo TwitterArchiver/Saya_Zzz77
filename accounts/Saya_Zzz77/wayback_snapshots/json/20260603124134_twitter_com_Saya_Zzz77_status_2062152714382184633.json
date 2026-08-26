@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2062152714382184633",
+    "created_at": "2026-06-03T12:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062152714382184633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thepinkernet/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/thepinkernet/status/2061938047864758363",
+          "start": 8,
+          "url": "https://t.co/ScnoDpTbuY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062152714382184633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061938047864758363",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好萌呀 想擁有 https://t.co/ScnoDpTbuY"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "from ddj_doll on instagram",
+        "height": 640,
+        "media_key": "3_2061938045096427520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ15ujbWAAA1hRQ.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2062152714382184633",
+        "created_at": "2026-06-03T12:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062152714382184633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thepinkernet/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/thepinkernet/status/2061938047864758363",
+              "start": 8,
+              "url": "https://t.co/ScnoDpTbuY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062152714382184633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061938047864758363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好萌呀 想擁有 https://t.co/ScnoDpTbuY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061938045096427520"
+          ]
+        },
+        "author_id": "1405622961613246464",
+        "conversation_id": "2061938047864758363",
+        "created_at": "2026-06-02T22:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T23:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061938047864758363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/30CNYjUQqb",
+              "end": 47,
+              "expanded_url": "https://x.com/thepinkernet/status/2061938047864758363/photo/1",
+              "media_key": "3_2061938045096427520",
+              "start": 24,
+              "url": "https://t.co/30CNYjUQqb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061938047864758363",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 435,
+          "impression_count": 76648,
+          "like_count": 4881,
+          "quote_count": 149,
+          "reply_count": 7,
+          "retweet_count": 574
+        },
+        "reply_settings": "everyone",
+        "text": "gloomy bear keychains ♡ https://t.co/30CNYjUQqb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休",
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 31,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 33
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-17T20:26:53.000Z",
+        "description": "꒰ ⑅ kiki ⑅꒱ she|her the pinkest internet archive ❀\n\ncredits & sources will be in the alt text!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "allmylinks.com/thepinkernet",
+                "end": 23,
+                "expanded_url": "https://allmylinks.com/thepinkernet",
+                "start": 0,
+                "url": "https://t.co/PQ6Rd22Z0w"
+              }
+            ]
+          }
+        },
+        "id": "1405622961613246464",
+        "location": "❀ ⠀ my ⠀ pinkest ⠀fantasy⠀  ❀",
+        "name": "⋆｡˚𝓚₊˚⊹𝜗❀𝜚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005132379824726016/BiT8oDpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20976,
+          "following_count": 1063,
+          "like_count": 120353,
+          "listed_count": 79,
+          "media_count": 6449,
+          "tweet_count": 40243
+        },
+        "url": "https://t.co/PQ6Rd22Z0w",
+        "username": "thepinkernet",
+        "verified": false
+      }
+    ]
+  }
+}

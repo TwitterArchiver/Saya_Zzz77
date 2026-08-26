@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2089764714889023749",
+    "created_at": "2026-08-18T17:21:48.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T18:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089764714889023749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2023258926880636928",
+          "start": 3,
+          "username": "plane294"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089764714889023749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089312453247254531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @plane294: 辞落互关寻回中……原来的号莫名其妙死了，甚至申诉不了，私信可以发但是只读。\n辞落的互fo100解锁抽奖！\n只要100以上就抽\n条件 关注评论转发点赞\n一等奖20g pr \n二等奖10gpr 2位\n三等奖 5.2 5位\n截止到2026.8.30\n因为我…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_2089312443180969984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP66mPCa8AA1xFv.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2089764714889023749",
+        "created_at": "2026-08-18T17:21:48.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089764714889023749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023258926880636928",
+              "start": 3,
+              "username": "plane294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089764714889023749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089312453247254531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @plane294: 辞落互关寻回中……原来的号莫名其妙死了，甚至申诉不了，私信可以发但是只读。\n辞落的互fo100解锁抽奖！\n只要100以上就抽\n条件 关注评论转发点赞\n一等奖20g pr \n二等奖10gpr 2位\n三等奖 5.2 5位\n截止到2026.8.30\n因为我…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089312443180969984"
+          ]
+        },
+        "author_id": "2023258926880636928",
+        "conversation_id": "2089312453247254531",
+        "created_at": "2026-08-17T11:24:41.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T12:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089312453247254531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F43WQ3fgM8",
+              "end": 155,
+              "expanded_url": "https://x.com/plane294/status/2089312453247254531/photo/1",
+              "media_key": "3_2089312443180969984",
+              "start": 132,
+              "url": "https://t.co/F43WQ3fgM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089312453247254531",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089312443180969984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 634,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "辞落互关寻回中……原来的号莫名其妙死了，甚至申诉不了，私信可以发但是只读。\n辞落的互fo100解锁抽奖！\n只要100以上就抽\n条件 关注评论转发点赞\n一等奖20g pr \n二等奖10gpr 2位\n三等奖 5.2 5位\n截止到2026.8.30\n因为我要回韩国开学 https://t.co/F43WQ3fgM8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "💊🩸🔪",
+        "most_recent_tweet_id": "2089764714889023749",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2083677542167491044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 87,
+          "like_count": 635,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 248
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:51:43.000Z",
+        "description": "一世@badapple7788 我不知道原来号咋了有点难绷😅\n也找不到找回来的按钮 666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "badapple7788"
+              }
+            ]
+          }
+        },
+        "id": "2023258926880636928",
+        "is_identity_verified": false,
+        "location": "距离你0.0001cm🩷❤️🧡💛💚🩵💙💜",
+        "most_recent_tweet_id": "2089667636686909665",
+        "name": "辞落 2.0（前世寻回互fo）",
+        "pinned_tweet_id": "2089312453247254531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023258926880636928/1786961965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089133119890923520/w-7FOuBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 74,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "plane294",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

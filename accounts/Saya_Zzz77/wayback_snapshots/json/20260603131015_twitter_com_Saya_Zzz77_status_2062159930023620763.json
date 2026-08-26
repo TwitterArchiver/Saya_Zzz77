@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2059272092143755638",
+    "created_at": "2026-06-03T13:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062159930023620763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "275063990",
+          "start": 0,
+          "username": "bahafid22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062159930023620763",
+    "in_reply_to_user_id": "275063990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059272092143755638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bahafid22 你好漂亮呀啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059271506698653698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQAhlzbUAI0rOw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2059272092143755638",
+        "created_at": "2026-06-03T13:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062159930023620763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "275063990",
+              "start": 0,
+              "username": "bahafid22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062159930023620763",
+        "in_reply_to_user_id": "275063990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059272092143755638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bahafid22 你好漂亮呀啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059271506698653698"
+          ]
+        },
+        "author_id": "275063990",
+        "conversation_id": "2059272092143755638",
+        "created_at": "2026-05-26T13:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059272092143755638"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 154,
+              "start": 150,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "线下"
+            },
+            {
+              "end": 162,
+              "start": 159,
+              "tag": "线上"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nz932aXZru",
+              "end": 186,
+              "expanded_url": "https://x.com/bahafid22/status/2059272092143755638/photo/1",
+              "media_key": "3_2059271506698653698",
+              "start": 163,
+              "url": "https://t.co/nz932aXZru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059272092143755638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 466,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "=荔枝 可以叫我荔枝\n18 /162/95\n自伤/od/\n52好友位\n88好友位=朋友圈开放\n188以上=陪聊偶尔会主动找你\n252以上=语言+日常纯绿聊天\n520以上=电子女友一周可以找我定制视频\n道具钱请自备\n1314以上你是我主人+线下八折线下纯绿色/半绿188以上咨询哦！#江浙沪 #爸爸活 #门槛妹 #线下 #线上 https://t.co/nz932aXZru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休",
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 34,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 35
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-31T15:19:50.000Z",
+        "description": "=荔枝 可以叫我荔枝\n18 /162/95\n自伤/od/\n52好友位\n88好友位=朋友圈开放\n188以上=陪聊偶尔会主动找你\n252以上=语言+日常纯绿聊天\n520以上=电子女友一周可以找我定制视频\n道具钱请自备\n1314以上你是我主人+线下八折线下纯绿色/半绿188以上咨询哦！",
+        "id": "275063990",
+        "name": "loneliness",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056564405983387648/2xzxt3OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 13,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 39
+        },
+        "username": "bahafid22",
+        "verified": false
+      }
+    ]
+  }
+}

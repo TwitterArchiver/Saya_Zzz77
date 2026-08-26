@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2064043342380634162",
+    "created_at": "2026-06-08T17:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064043342380634162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1827754267551395840",
+          "start": 3,
+          "username": "MosaicIceRoll"
+        },
+        {
+          "end": 79,
+          "id": "2045929868031086592",
+          "start": 68,
+          "username": "IcyRoll777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064043342380634162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064031026515771431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MosaicIceRoll: 你好呀宝贝这是一个很简单的扩条，我想认识新的朋友！！\n转发的大家我会挨个道谢的ww\n\n=冰，二号机@IcyRoll777 我是女的\n现在只o只抽了，😇😇\n这边基本不发属性，也没有雷，你喜欢我=我喜欢你\n\n小窗一直开着，没回fo就是吞了使劲踹…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064043342380634162].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064043342380634162",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064043342380634162"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064031014830391296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTpRbRawAAIxnp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064031014830391296"
+          ]
+        },
+        "author_id": "1827754267551395840",
+        "conversation_id": "2064031026515771431",
+        "created_at": "2026-06-08T17:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064031026515771431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "2045929868031086592",
+              "start": 49,
+              "username": "IcyRoll777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjh2CmUPpU",
+              "end": 148,
+              "expanded_url": "https://x.com/MosaicIceRoll/status/2064031026515771431/photo/1",
+              "media_key": "3_2064031014830391296",
+              "start": 125,
+              "url": "https://t.co/jjh2CmUPpU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064031026515771431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你好呀宝贝这是一个很简单的扩条，我想认识新的朋友！！\n转发的大家我会挨个道谢的ww\n\n=冰，二号机@IcyRoll777 我是女的\n现在只o只抽了，😇😇\n这边基本不发属性，也没有雷，你喜欢我=我喜欢你\n\n小窗一直开着，没回fo就是吞了使劲踹我！！！ https://t.co/jjh2CmUPpU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 68,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 91
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T17:06:04.000Z",
+        "description": "我是冰卷，叫我冰就行，\n避难二号机@IcyRoll777\nshtwt/overdosetwt/edtwt,\n（但是msk一个都不让发。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "IcyRoll777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ice.mocaic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ice.mocaic",
+                "start": 0,
+                "url": "https://t.co/cCCiMfEPE4"
+              }
+            ]
+          }
+        },
+        "id": "1827754267551395840",
+        "location": "大电池鲶鱼保护中心",
+        "name": "_(:3」∠)_",
+        "pinned_tweet_id": "2058425911452807222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830319129904975873/HzgrEU7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 237,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1306
+        },
+        "url": "https://t.co/cCCiMfEPE4",
+        "username": "MosaicIceRoll",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T18:23:44.000Z",
+        "description": "冰儿二号机，\n本体传送门@MosaicIceRoll，\n\n被贱人陷害的时候会来这里( ･᷄ὢ･᷅ )",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "MosaicIceRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ice.mocaic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ice.mocaic",
+                "start": 0,
+                "url": "https://t.co/FTD3LM1Y2T"
+              }
+            ]
+          }
+        },
+        "id": "2045929868031086592",
+        "location": "核子熔炉",
+        "name": "∠( :3 」∠)＿Paradise",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060287222331707393/lqaU7YsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 102,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/FTD3LM1Y2T",
+        "username": "IcyRoll777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2063236670682722615",
+    "created_at": "2026-06-06T13:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063247214496059684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031363005557211136",
+          "start": 0,
+          "username": "Maruitikyuutan"
+        },
+        {
+          "end": 28,
+          "id": "1526965927748571136",
+          "start": 16,
+          "username": "Natsumejuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063247214496059684",
+    "in_reply_to_user_id": "2031363005557211136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063236670682722615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maruitikyuutan @Natsumejuri 好萌！甜甜圈也可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063236663367909376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIW0FebQAAOCHD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063236663426625536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIW0FsbMAAIOGP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2063236670682722615",
+        "created_at": "2026-06-06T13:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063247214496059684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031363005557211136",
+              "start": 0,
+              "username": "Maruitikyuutan"
+            },
+            {
+              "end": 28,
+              "id": "1526965927748571136",
+              "start": 16,
+              "username": "Natsumejuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063247214496059684",
+        "in_reply_to_user_id": "2031363005557211136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063236670682722615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maruitikyuutan @Natsumejuri 好萌！甜甜圈也可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063236663367909376",
+            "3_2063236663426625536"
+          ]
+        },
+        "author_id": "2031363005557211136",
+        "conversation_id": "2063236670682722615",
+        "created_at": "2026-06-06T12:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063236670682722615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1526965927748571136",
+              "start": 8,
+              "username": "Natsumejuri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Yr8ZignON",
+              "end": 44,
+              "expanded_url": "https://x.com/Maruitikyuutan/status/2063236670682722615/photo/1",
+              "media_key": "3_2063236663367909376",
+              "start": 21,
+              "url": "https://t.co/9Yr8ZignON"
+            },
+            {
+              "display_url": "pic.x.com/9Yr8ZignON",
+              "end": 44,
+              "expanded_url": "https://x.com/Maruitikyuutan/status/2063236670682722615/photo/1",
+              "media_key": "3_2063236663426625536",
+              "start": 21,
+              "url": "https://t.co/9Yr8ZignON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063236670682722615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甜甜圈你死值了呀@Natsumejuri https://t.co/9Yr8ZignON"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 57,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 77
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T13:36:00.000Z",
+        "description": "中国語日本語⭕️｜人間女| maimaiオンゲキ プロセカ Apex Overwatch cosplay イラスト｜20歳↓|関東|夏色花梨推しです。ぜひ！仲良くなってください🎵日本語垢@Tikyumaru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Tikyumaru"
+              }
+            ]
+          }
+        },
+        "id": "2031363005557211136",
+        "name": "地球丸（草莓牛奶版）",
+        "pinned_tweet_id": "2033105074042630224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033983240986669057/ij9VUtk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 100,
+          "like_count": 1434,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 605
+        },
+        "username": "Maruitikyuutan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T16:41:01.000Z",
+        "description": "MtF | Computer Science",
+        "id": "1526965927748571136",
+        "location": "亚空间",
+        "name": "夏子",
+        "pinned_tweet_id": "2032355055467446683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996966756427218944/EWv7GHnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5415,
+          "following_count": 504,
+          "like_count": 24394,
+          "listed_count": 7,
+          "media_count": 609,
+          "tweet_count": 3786
+        },
+        "username": "Natsumejuri",
+        "verified": true
+      }
+    ]
+  }
+}

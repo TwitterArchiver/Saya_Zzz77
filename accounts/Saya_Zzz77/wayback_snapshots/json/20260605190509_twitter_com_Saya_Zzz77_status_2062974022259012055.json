@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2062974022259012055",
+    "created_at": "2026-06-05T19:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T20:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062974022259012055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aalin83494/sta…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/aalin83494/status/2062802368174191023",
+          "start": 33,
+          "url": "https://t.co/FPEcb4wA9k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062974022259012055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062802368174191023",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊，羨慕，我有時候和一個性無能一樣，然後有時候又像瘋了一樣想做、 https://t.co/FPEcb4wA9k"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2062974022259012055",
+        "created_at": "2026-06-05T19:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T20:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062974022259012055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aalin83494/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/aalin83494/status/2062802368174191023",
+              "start": 33,
+              "url": "https://t.co/FPEcb4wA9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062974022259012055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062802368174191023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊，羨慕，我有時候和一個性無能一樣，然後有時候又像瘋了一樣想做、 https://t.co/FPEcb4wA9k"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988034366405308417",
+        "conversation_id": "2062802368174191023",
+        "created_at": "2026-06-05T07:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062802368174191023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062802368174191023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 82515,
+          "like_count": 449,
+          "quote_count": 5,
+          "reply_count": 283,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "没有性欲真的很爽你们知道吗…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 60,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 69
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T00:01:59.000Z",
+        "description": "年龄不详\n不想吃苦\n不想受罪\n（发摇杆的拉黑）",
+        "id": "1988034366405308417",
+        "name": "cx2",
+        "pinned_tweet_id": "2049111488397533293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049498734753660929/aY_VKok4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 21,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 317
+        },
+        "username": "AAlin83494",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082925700936556544"
+      ]
+    },
+    "author_id": "2032064554684026880",
+    "conversation_id": "2082925741080236273",
+    "created_at": "2026-07-30T20:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T21:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082925741080236273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BJS7orbWx5",
+          "end": 69,
+          "expanded_url": "https://x.com/Saya_Zzz77/status/2082925741080236273/video/1",
+          "media_key": "13_2082925700936556544",
+          "start": 46,
+          "url": "https://t.co/BJS7orbWx5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082925741080236273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這個時候我要餓虛脫了然後腦子暈暈的然後還剛割完手然後我下面還沒穿褲子然後懵逼的錄了這個抖舞 https://t.co/BJS7orbWx5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27746,
+        "height": 1280,
+        "media_key": "13_2082925700936556544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082925700936556544/img/ewsUstJV4EvwGMEi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082925700936556544/vid/avc1/320x568/Eh0Byb4BHZ_xnrRu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082925700936556544/vid/avc1/480x852/x1oNasNTrSzevd2A.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082925700936556544/vid/avc1/720x1280/TgjVw5XeO3EI4Mkz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082925700936556544/pl/YFdeyxfOnAp6ZCwI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082925700936556544"
+          ]
+        },
+        "author_id": "2032064554684026880",
+        "conversation_id": "2082925741080236273",
+        "created_at": "2026-07-30T20:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T21:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082925741080236273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJS7orbWx5",
+              "end": 69,
+              "expanded_url": "https://x.com/Saya_Zzz77/status/2082925741080236273/video/1",
+              "media_key": "13_2082925700936556544",
+              "start": 46,
+              "url": "https://t.co/BJS7orbWx5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082925741080236273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這個時候我要餓虛脫了然後腦子暈暈的然後還剛割完手然後我下面還沒穿褲子然後懵逼的錄了這個抖舞 https://t.co/BJS7orbWx5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 85,
+          "like_count": 564,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false
+      }
+    ]
+  }
+}

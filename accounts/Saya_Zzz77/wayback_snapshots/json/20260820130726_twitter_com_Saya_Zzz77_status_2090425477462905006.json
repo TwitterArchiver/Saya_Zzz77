@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090108548940181504"
+      ],
+      "media_source_tweet_id": [
+        "2090108563389603851"
+      ]
+    },
+    "author_id": "2032064554684026880",
+    "conversation_id": "2090425477462905006",
+    "created_at": "2026-08-20T13:07:26.000Z",
+    "display_text_range": [
+      0,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T14:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090425477462905006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1176119653053210624",
+          "start": 3,
+          "username": "cel0fc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gG4llEN88U",
+          "end": 124,
+          "expanded_url": "https://x.com/cel0fc/status/2090108563389603851/video/1",
+          "media_key": "13_2090108548940181504",
+          "start": 101,
+          "url": "https://t.co/gG4llEN88U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090425477462905006",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "13_2090108548940181504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27192
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090108563389603851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cel0fc: \"30 min de exercício por dia ajuda a diminuir a ansiedade. \"\n\nEu com 3 min de exercício: https://t.co/gG4llEN88U"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7033,
+        "height": 456,
+        "media_key": "13_2090108548940181504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090108548940181504/img/C5mmBxY1YBACDOy-.jpg",
+        "public_metrics": {
+          "view_count": 2509005
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090108548940181504/vid/avc1/388x270/ja_rGCG9x99VKnRV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090108548940181504/vid/avc1/656x456/W6etPWVM4DIp0Djk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090108548940181504/pl/UG6LPwaWBemCUf7i.m3u8"
+          }
+        ],
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090108548940181504"
+          ],
+          "media_source_tweet_id": [
+            "2090108563389603851"
+          ]
+        },
+        "author_id": "2032064554684026880",
+        "conversation_id": "2090425477462905006",
+        "created_at": "2026-08-20T13:07:26.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090425477462905006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1176119653053210624",
+              "start": 3,
+              "username": "cel0fc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gG4llEN88U",
+              "end": 124,
+              "expanded_url": "https://x.com/cel0fc/status/2090108563389603851/video/1",
+              "media_key": "13_2090108548940181504",
+              "start": 101,
+              "url": "https://t.co/gG4llEN88U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090425477462905006",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2090108548940181504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27192
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090108563389603851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cel0fc: \"30 min de exercício por dia ajuda a diminuir a ansiedade. \"\n\nEu com 3 min de exercício: https://t.co/gG4llEN88U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090108548940181504"
+          ]
+        },
+        "author_id": "1176119653053210624",
+        "conversation_id": "2090108563389603851",
+        "created_at": "2026-08-19T16:08:08.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090108563389603851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gG4llEN88U",
+              "end": 112,
+              "expanded_url": "https://x.com/cel0fc/status/2090108563389603851/video/1",
+              "media_key": "13_2090108548940181504",
+              "start": 89,
+              "url": "https://t.co/gG4llEN88U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090108563389603851",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2090108548940181504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10707,
+          "impression_count": 5693607,
+          "like_count": 162672,
+          "quote_count": 1403,
+          "reply_count": 583,
+          "retweet_count": 27203
+        },
+        "reply_settings": "everyone",
+        "text": "\"30 min de exercício por dia ajuda a diminuir a ansiedade. \"\n\nEu com 3 min de exercício: https://t.co/gG4llEN88U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "💊🩸🔪",
+        "most_recent_tweet_id": "2090425477462905006",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2083677542167491044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 101,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-23T13:02:42.000Z",
+        "description": "aqui eu falo de tudo.",
+        "id": "1176119653053210624",
+        "is_identity_verified": true,
+        "location": " Brasil",
+        "most_recent_tweet_id": "2090388160186400940",
+        "name": "celo",
+        "pinned_tweet_id": "2084284273578610743",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176119653053210624/1781570862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047980674574176256/eaIB_TC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 868,
+          "like_count": 817,
+          "listed_count": 1,
+          "media_count": 2702,
+          "tweet_count": 3547
+        },
+        "url": "",
+        "username": "cel0fc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

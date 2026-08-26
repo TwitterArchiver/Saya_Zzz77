@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090866850544644096"
+      ]
+    },
+    "author_id": "2032064554684026880",
+    "conversation_id": "2090866856601235536",
+    "created_at": "2026-08-21T18:21:19.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T19:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090866856601235536"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vh73aCcGrt",
+          "end": 39,
+          "expanded_url": "https://x.com/Saya_Zzz77/status/2090866856601235536/photo/1",
+          "media_key": "3_2090866850544644096",
+          "start": 16,
+          "url": "https://t.co/vh73aCcGrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090866856601235536",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090866850544644096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哥哥姊姊們我沒錢活了我好難受… https://t.co/vh73aCcGrt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2090866850544644096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRAUptacAAMynx.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090866850544644096"
+          ]
+        },
+        "author_id": "2032064554684026880",
+        "conversation_id": "2090866856601235536",
+        "created_at": "2026-08-21T18:21:19.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090866856601235536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vh73aCcGrt",
+              "end": 39,
+              "expanded_url": "https://x.com/Saya_Zzz77/status/2090866856601235536/photo/1",
+              "media_key": "3_2090866850544644096",
+              "start": 16,
+              "url": "https://t.co/vh73aCcGrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090866856601235536",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090866850544644096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥姊姊們我沒錢活了我好難受… https://t.co/vh73aCcGrt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "💊🩸🔪",
+        "most_recent_tweet_id": "2090866856601235536",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2083677542167491044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 109,
+          "like_count": 684,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

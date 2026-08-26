@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075674211247620096"
+      ],
+      "media_source_tweet_id": [
+        "2075674217828512085"
+      ]
+    },
+    "author_id": "2032064554684026880",
+    "conversation_id": "2076363986623492554",
+    "created_at": "2026-07-12T17:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076363986623492554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2075670932119859200",
+          "start": 3,
+          "username": "_1wf_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y2QqRjmpz3",
+          "end": 105,
+          "expanded_url": "https://x.com/_1wf_0/status/2075674217828512085/photo/1",
+          "media_key": "3_2075674211247620096",
+          "start": 82,
+          "url": "https://t.co/y2QqRjmpz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076363986623492554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075674217828512085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_1wf_0: 我是TT/泪酱2.0 我重生了𖦹 ɷ 𖦹\n請助我尋找互關…\n躁郁 ｜bpd｜思覺失調｜\n超容易爆炸 核彈妹\n我是爛人不能接受 請不要靠近我 https://t.co/y2QqRjmpz3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075674211247620096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM5Gsp7agAAdYGd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075674211247620096"
+          ],
+          "media_source_tweet_id": [
+            "2075674217828512085"
+          ]
+        },
+        "author_id": "2032064554684026880",
+        "conversation_id": "2076363986623492554",
+        "created_at": "2026-07-12T17:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076363986623492554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2075670932119859200",
+              "start": 3,
+              "username": "_1wf_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y2QqRjmpz3",
+              "end": 105,
+              "expanded_url": "https://x.com/_1wf_0/status/2075674217828512085/photo/1",
+              "media_key": "3_2075674211247620096",
+              "start": 82,
+              "url": "https://t.co/y2QqRjmpz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076363986623492554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075674217828512085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_1wf_0: 我是TT/泪酱2.0 我重生了𖦹 ɷ 𖦹\n請助我尋找互關…\n躁郁 ｜bpd｜思覺失調｜\n超容易爆炸 核彈妹\n我是爛人不能接受 請不要靠近我 https://t.co/y2QqRjmpz3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075674211247620096"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2075674217828512085",
+        "created_at": "2026-07-10T20:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075674217828512085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y2QqRjmpz3",
+              "end": 93,
+              "expanded_url": "https://x.com/_1wf_0/status/2075674217828512085/photo/1",
+              "media_key": "3_2075674211247620096",
+              "start": 70,
+              "url": "https://t.co/y2QqRjmpz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075674217828512085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2804,
+          "like_count": 50,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我是TT/泪酱2.0 我重生了𖦹 ɷ 𖦹\n請助我尋找互關…\n躁郁 ｜bpd｜思覺失調｜\n超容易爆炸 核彈妹\n我是爛人不能接受 請不要靠近我 https://t.co/y2QqRjmpz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 86,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "(?´•ω•｀)え？\n=TT/淚醬\n精神狀態不穩定但很友好",
+        "id": "2075670932119859200",
+        "location": "你在世界的角落找到我了嗎",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2075674217828512085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075671341467074560/2Mwmvahk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 51,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false
+      }
+    ]
+  }
+}

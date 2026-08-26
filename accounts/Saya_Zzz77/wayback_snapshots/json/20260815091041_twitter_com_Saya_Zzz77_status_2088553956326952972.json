@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088424427398561792"
+      ],
+      "media_source_tweet_id": [
+        "2088424433555849579"
+      ]
+    },
+    "author_id": "2032064554684026880",
+    "conversation_id": "2088553956326952972",
+    "created_at": "2026-08-15T09:10:41.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088553956326952972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1940528068868612097",
+          "start": 3,
+          "username": "oldbigdickdaddy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nA07MEhj5Z",
+          "end": 64,
+          "expanded_url": "https://x.com/oldbigdickdaddy/status/2088424433555849579/photo/1",
+          "media_key": "3_2088424427398561792",
+          "start": 41,
+          "url": "https://t.co/nA07MEhj5Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088553956326952972",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2088424427398561792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 303
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088424433555849579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oldbigdickdaddy: i love you kai-chan https://t.co/nA07MEhj5Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088424427398561792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPuS86dXAAAnjuI.jpg",
+        "width": 1778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088424427398561792"
+          ],
+          "media_source_tweet_id": [
+            "2088424433555849579"
+          ]
+        },
+        "author_id": "2032064554684026880",
+        "conversation_id": "2088553956326952972",
+        "created_at": "2026-08-15T09:10:41.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088553956326952972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1940528068868612097",
+              "start": 3,
+              "username": "oldbigdickdaddy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nA07MEhj5Z",
+              "end": 64,
+              "expanded_url": "https://x.com/oldbigdickdaddy/status/2088424433555849579/photo/1",
+              "media_key": "3_2088424427398561792",
+              "start": 41,
+              "url": "https://t.co/nA07MEhj5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088553956326952972",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088424427398561792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088424433555849579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oldbigdickdaddy: i love you kai-chan https://t.co/nA07MEhj5Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088424427398561792"
+          ]
+        },
+        "author_id": "1940528068868612097",
+        "conversation_id": "2088424433555849579",
+        "created_at": "2026-08-15T00:36:00.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T01:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088424433555849579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nA07MEhj5Z",
+              "end": 43,
+              "expanded_url": "https://x.com/oldbigdickdaddy/status/2088424433555849579/photo/1",
+              "media_key": "3_2088424427398561792",
+              "start": 20,
+              "url": "https://t.co/nA07MEhj5Z"
+            },
+            {
+              "display_url": "x.com/fleshspiritbon…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/fleshspiritbone/status/2081939961578991740",
+              "start": 44,
+              "url": "https://t.co/kTVyYvD5dw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088424433555849579",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088424427398561792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 15890,
+          "like_count": 1898,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081939961578991740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i love you kai-chan https://t.co/nA07MEhj5Z https://t.co/kTVyYvD5dw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "💊🩸🔪",
+        "most_recent_tweet_id": "2088553956326952972",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2083677542167491044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 91,
+          "like_count": 607,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-02T21:48:47.000Z",
+        "description": "",
+        "id": "1940528068868612097",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088441231047069813",
+        "name": "dhhdjsjdjajxj",
+        "pinned_tweet_id": "2087635448579367012",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086971403157278720/-juQk2kz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 2,
+          "like_count": 21892,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1507
+        },
+        "url": "",
+        "username": "oldbigdickdaddy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

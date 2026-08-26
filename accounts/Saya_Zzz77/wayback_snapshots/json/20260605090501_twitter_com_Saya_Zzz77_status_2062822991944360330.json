@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2062822991944360330",
+    "created_at": "2026-06-05T09:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T10:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062822991944360330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779747754216198144",
+          "start": 3,
+          "username": "Mercury_97z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062822991944360330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062568392855588884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Mercury_97z: 再澄清一次，earth是给你们e人活的，我们i人生活的世界叫做 internet，谢谢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2062822991944360330",
+        "created_at": "2026-06-05T09:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062822991944360330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779747754216198144",
+              "start": 3,
+              "username": "Mercury_97z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062822991944360330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062568392855588884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Mercury_97z: 再澄清一次，earth是给你们e人活的，我们i人生活的世界叫做 internet，谢谢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779747754216198144",
+        "conversation_id": "2062568392855588884",
+        "created_at": "2026-06-04T16:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062568392855588884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062568392855588884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4681,
+          "like_count": 180,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "following",
+        "text": "再澄清一次，earth是给你们e人活的，我们i人生活的世界叫做 internet，谢谢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 59,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 64
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T05:45:24.000Z",
+        "description": "热爱蓝色/双/超爱动漫/热爱美好肉体和有趣的帖子/爱互动/听得杂/看得杂/人有点乱七八糟/🈲️4i/🈲️zz相关话题/讨厌傻福会拉黑",
+        "id": "1779747754216198144",
+        "name": "咩咩",
+        "pinned_tweet_id": "2052471110818787489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005372844805636096/6WLieqNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 1429,
+          "like_count": 43959,
+          "listed_count": 8,
+          "media_count": 930,
+          "tweet_count": 6310
+        },
+        "username": "Mercury_97z",
+        "verified": false
+      }
+    ]
+  }
+}

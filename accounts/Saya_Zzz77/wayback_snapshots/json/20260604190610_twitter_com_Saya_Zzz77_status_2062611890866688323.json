@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2062454281257832564",
+    "created_at": "2026-06-04T19:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T20:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062611890866688323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026548163004559360",
+          "start": 0,
+          "username": "Ninaaapple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062611890866688323",
+    "in_reply_to_user_id": "2026548163004559360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062454281257832564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ninaaapple 寶寶互fo嗎！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062454268213579776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9POsZb0AABdeH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2062454268163174400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9POsNasAAyTLX.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2062454281257832564",
+        "created_at": "2026-06-04T19:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T20:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062611890866688323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026548163004559360",
+              "start": 0,
+              "username": "Ninaaapple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062611890866688323",
+        "in_reply_to_user_id": "2026548163004559360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062454281257832564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ninaaapple 寶寶互fo嗎！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062454268213579776",
+            "3_2062454268163174400"
+          ]
+        },
+        "author_id": "2026548163004559360",
+        "conversation_id": "2062454281257832564",
+        "created_at": "2026-06-04T08:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062454281257832564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5V908ERGAM",
+              "end": 76,
+              "expanded_url": "https://x.com/Ninaaapple/status/2062454281257832564/photo/1",
+              "media_key": "3_2062454268213579776",
+              "start": 53,
+              "url": "https://t.co/5V908ERGAM"
+            },
+            {
+              "display_url": "pic.x.com/5V908ERGAM",
+              "end": 76,
+              "expanded_url": "https://x.com/Ninaaapple/status/2062454281257832564/photo/1",
+              "media_key": "3_2062454268163174400",
+              "start": 53,
+              "url": "https://t.co/5V908ERGAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062454281257832564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3320,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "新的自介条\n之前的被封了\n双相/od/自伤/废话/🚬\n欢迎餐券妹来找我交朋友/互fo哦\n令：我正在征婚🫪 https://t.co/5V908ERGAM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 51,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 59
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T06:43:10.000Z",
+        "description": "I'm Nina.🏳️‍🌈\nIloveyouforeverIhateyouforever",
+        "id": "2026548163004559360",
+        "location": "瑞士 沃",
+        "name": "Nina",
+        "pinned_tweet_id": "2062454281257832564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046083071716339712/T8jhO2Pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 104,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 132
+        },
+        "username": "Ninaaapple",
+        "verified": false
+      }
+    ]
+  }
+}

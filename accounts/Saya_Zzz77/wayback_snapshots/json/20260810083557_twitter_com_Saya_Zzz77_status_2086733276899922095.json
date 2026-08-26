@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2086494273864933692",
+    "created_at": "2026-08-10T08:35:57.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T09:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086733276899922095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048564180530446336",
+          "start": 0,
+          "username": "hiyuxxx_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086733276899922095",
+    "in_reply_to_user_id": "2048564180530446336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086709822037319933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiyuxxx_ 寶寶mua"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2086494273864933692",
+        "created_at": "2026-08-10T08:35:57.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T09:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086733276899922095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048564180530446336",
+              "start": 0,
+              "username": "hiyuxxx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086733276899922095",
+        "in_reply_to_user_id": "2048564180530446336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086709822037319933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiyuxxx_ 寶寶mua"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048564180530446336",
+        "conversation_id": "2086494273864933692",
+        "created_at": "2026-08-10T07:02:45.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086709822037319933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2032064554684026880",
+              "start": 0,
+              "username": "Saya_Zzz77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086709822037319933",
+        "in_reply_to_user_id": "2032064554684026880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086494273864933692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saya_Zzz77 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "💊🩸🔪",
+        "most_recent_tweet_id": "2086733276899922095",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2083677542167491044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 87,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T00:45:57.000Z",
+        "description": "vi）汚部屋「女子高生日記」ひなた —— 加好友私聊易相处、dm领取日常生活照片 (͒ ᴖ ·̫ ᴖ⸝⸝ )͒ 音乐是毒品 𖹭 账号发布随机想法 情绪稳定高强度\n\nenfp —××××××××  敏感、多层次人格、情感依赖、不稳定 、高连接需求、混合型依恋",
+        "id": "2048564180530446336",
+        "is_identity_verified": false,
+        "location": "12",
+        "most_recent_tweet_id": "2086709822037319933",
+        "name": "ミザ",
+        "pinned_tweet_id": "2062708266866728973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048564180530446336/1781272357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062770402007638016/_OlQj7JK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 175,
+          "like_count": 1445,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "hiyuxxx_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

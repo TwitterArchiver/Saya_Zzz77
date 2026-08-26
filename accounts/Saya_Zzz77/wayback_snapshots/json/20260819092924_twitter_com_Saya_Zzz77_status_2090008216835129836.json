@@ -1,0 +1,558 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2089951524575424806",
+    "created_at": "2026-08-19T09:29:24.000Z",
+    "display_text_range": [
+      104,
+      120
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090008216835129836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045921763553312768",
+          "start": 0,
+          "username": "_weiwudage"
+        },
+        {
+          "end": 24,
+          "id": "1787079624260001792",
+          "start": 12,
+          "username": "HanLuo14894"
+        },
+        {
+          "end": 41,
+          "id": "1864698310390632448",
+          "start": 25,
+          "username": "shang_meng20770"
+        },
+        {
+          "end": 55,
+          "id": "1751672682733875200",
+          "start": 42,
+          "username": "jdvddh_58736"
+        },
+        {
+          "end": 72,
+          "id": "1753503644425801728",
+          "start": 56,
+          "username": "shi913161614622"
+        },
+        {
+          "end": 86,
+          "id": "2027785341495873540",
+          "start": 73,
+          "username": "Zhouzhou28ep"
+        },
+        {
+          "end": 103,
+          "id": "1895740263202799616",
+          "start": 87,
+          "username": "joetoilet321022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090008216835129836",
+    "in_reply_to_user_id": "2045921763553312768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089951524575424806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_weiwudage @HanLuo14894 @shang_meng20770 @jdvddh_58736 @shi913161614622 @Zhouzhou28ep @joetoilet321022 寶貝可以回關一下嗎我私信不了TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2089951524575424806",
+        "created_at": "2026-08-19T09:29:24.000Z",
+        "display_text_range": [
+          104,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090008216835129836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045921763553312768",
+              "start": 0,
+              "username": "_weiwudage"
+            },
+            {
+              "end": 24,
+              "id": "1787079624260001792",
+              "start": 12,
+              "username": "HanLuo14894"
+            },
+            {
+              "end": 41,
+              "id": "1864698310390632448",
+              "start": 25,
+              "username": "shang_meng20770"
+            },
+            {
+              "end": 55,
+              "id": "1751672682733875200",
+              "start": 42,
+              "username": "jdvddh_58736"
+            },
+            {
+              "end": 72,
+              "id": "1753503644425801728",
+              "start": 56,
+              "username": "shi913161614622"
+            },
+            {
+              "end": 86,
+              "id": "2027785341495873540",
+              "start": 73,
+              "username": "Zhouzhou28ep"
+            },
+            {
+              "end": 103,
+              "id": "1895740263202799616",
+              "start": 87,
+              "username": "joetoilet321022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090008216835129836",
+        "in_reply_to_user_id": "2045921763553312768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089951524575424806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_weiwudage @HanLuo14894 @shang_meng20770 @jdvddh_58736 @shi913161614622 @Zhouzhou28ep @joetoilet321022 寶貝可以回關一下嗎我私信不了TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045921763553312768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2089951524575424806",
+        "created_at": "2026-08-19T05:44:07.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089951524575424806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "2032064554684026880",
+              "start": 32,
+              "username": "Saya_Zzz77"
+            },
+            {
+              "end": 61,
+              "id": "1787079624260001792",
+              "start": 49,
+              "username": "HanLuo14894"
+            },
+            {
+              "end": 78,
+              "id": "1864698310390632448",
+              "start": 62,
+              "username": "shang_meng20770"
+            },
+            {
+              "end": 97,
+              "id": "1751672682733875200",
+              "start": 84,
+              "username": "jdvddh_58736"
+            },
+            {
+              "end": 114,
+              "id": "1753503644425801728",
+              "start": 98,
+              "username": "shi913161614622"
+            },
+            {
+              "end": 128,
+              "id": "2027785341495873540",
+              "start": 115,
+              "username": "Zhouzhou28ep"
+            },
+            {
+              "end": 145,
+              "id": "1895740263202799616",
+              "start": 129,
+              "username": "joetoilet321022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089951524575424806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖结果出来了，恭喜下列中奖的宝宝，请中奖的宝宝私我哦\n一等奖\n@Saya_Zzz77\n\n二等奖\n@HanLuo14894\n@shang_meng20770\n\n三等奖\n@jdvddh_58736\n@shi913161614622\n@Zhouzhou28ep\n@joetoilet321022\n本次抽奖采用Grok去重随机抽奖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "💊🩸🔪",
+        "most_recent_tweet_id": "2090008216835129836",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2083677542167491044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 86,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 256
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-19T17:45:48.000Z",
+        "description": "你别骂我我玻璃心   \n贫穷/内向（？）/餐劵/o割丨取向KAWAII\n只fo好感丨交友大欢迎丨留言请私丨非互fo🚪5.2\n这也是我@makeasweetdream",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "makeasweetdream"
+              }
+            ]
+          }
+        },
+        "id": "2045921763553312768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089955213285425417",
+        "name": "苦愛",
+        "pinned_tweet_id": "2083351160136818777",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045921763553312768/1786613085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078407875937140736/kfwrb55X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 75,
+          "like_count": 1972,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1062
+        },
+        "url": "",
+        "username": "_weiwudage",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-05T11:19:40.000Z",
+        "description": "漂着，等着砸在水泥地。\n不是机器人，是会抽烟咳嗽的活死人～\n多点狂人神人来聊。\n不对任何群体存在偏见。\n请大家关注@xyluo8964，加入XY大法",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "xyluo8964"
+              }
+            ]
+          }
+        },
+        "id": "1787079624260001792",
+        "is_identity_verified": false,
+        "location": "无间地狱",
+        "most_recent_tweet_id": "2089985868987769118",
+        "name": "罗 XY",
+        "pinned_tweet_id": "2063878065110016353",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1787079624260001792/1784697970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946790191877750784/hnZJkmLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 37,
+          "like_count": 58329,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1669
+        },
+        "url": "",
+        "username": "HanLuo14894",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-05T15:48:41.000Z",
+        "description": "08  INFP  高三 社恐 厨男\n浑浑噩噩的苦逼男高 喜欢FPS\n梦想是被爱 要偏爱 好多爱\n不约不卖不卡 骚扰我先打钱\n私信看到都会回",
+        "id": "1864698310390632448",
+        "is_identity_verified": false,
+        "location": "Chuo-ku, Tokyo",
+        "most_recent_tweet_id": "2089034743140450629",
+        "name": "梦殇",
+        "pinned_tweet_id": "2084850579449209238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1864698310390632448/1785902143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865118428664590336/nqs0soRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "shang_meng20770",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-28T18:24:56.000Z",
+        "description": "",
+        "id": "1751672682733875200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089774431661158765",
+        "name": "茗归家兮",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751672682733875200/1767897233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086360756376031232/XmHOh2I6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 62,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "jdvddh_58736",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T19:40:30.000Z",
+        "description": "",
+        "id": "1753503644425801728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089765872466596023",
+        "name": "shi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 132,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "shi913161614622",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T16:39:01.000Z",
+        "description": "本人没素质傻逼一个此账号发表的所有言论,意在取悦自己,并通过文字或图片强制干预他人的思想,如果翻阅之后出现不适等症状,恭喜你,你怀了我的孩子 查成分回fo",
+        "id": "2027785341495873540",
+        "is_identity_verified": false,
+        "location": "0.01km",
+        "most_recent_tweet_id": "2089991592786424164",
+        "name": "zhou",
+        "pinned_tweet_id": "2087256331161936304",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027785341495873540/1786110842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085726540848152576/cmX7prxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 180,
+          "like_count": 977,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 536
+        },
+        "url": "",
+        "username": "Zhouzhou28ep",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-01T07:38:18.000Z",
+        "description": "",
+        "id": "1895740263202799616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088893777570304022",
+        "name": "Pocari",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063100745910763520/-3IJUEIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 441,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "joetoilet321022",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

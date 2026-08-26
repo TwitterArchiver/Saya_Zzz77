@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2074598643299156321",
+    "created_at": "2026-07-07T20:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T21:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074598643299156321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/saya_zzz77/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/saya_zzz77/status/2073531251223675204",
+          "start": 14,
+          "url": "https://t.co/0ZF9UTBB36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074598643299156321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073531251223675204",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "操你媽現在多了兩個口腔潰瘍 https://t.co/0ZF9UTBB36"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2074598643299156321",
+        "created_at": "2026-07-07T20:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T21:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074598643299156321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saya_zzz77/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/saya_zzz77/status/2073531251223675204",
+              "start": 14,
+              "url": "https://t.co/0ZF9UTBB36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074598643299156321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073531251223675204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "操你媽現在多了兩個口腔潰瘍 https://t.co/0ZF9UTBB36"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2073531251223675204",
+        "created_at": "2026-07-04T22:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T23:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073531251223675204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073531251223675204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操我嘴裡上火然後舌頭和上顎和牙齦都他媽是痛的 舌釘還一直磨上顎我直接痛飛天了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 81,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false
+      }
+    ]
+  }
+}

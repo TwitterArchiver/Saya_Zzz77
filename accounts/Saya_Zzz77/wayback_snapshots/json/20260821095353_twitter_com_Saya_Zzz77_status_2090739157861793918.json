@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2090739157861793918",
+    "created_at": "2026-08-21T09:53:53.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090739157861793918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2078716467781013504",
+          "start": 3,
+          "username": "slearthly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090739157861793918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090668854481653784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @slearthly: 这条抽一个人送28.88\n关注转帖就成\n咱会回fo的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2090739157861793918",
+        "created_at": "2026-08-21T09:53:53.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090739157861793918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2078716467781013504",
+              "start": 3,
+              "username": "slearthly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090739157861793918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090668854481653784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @slearthly: 这条抽一个人送28.88\n关注转帖就成\n咱会回fo的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078716467781013504",
+        "conversation_id": "2090668854481653784",
+        "created_at": "2026-08-21T05:14:32.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090668854481653784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090668854481653784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 576,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "这条抽一个人送28.88\n关注转帖就成\n咱会回fo的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "💊🩸🔪",
+        "most_recent_tweet_id": "2090739157861793918",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2083677542167491044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 107,
+          "like_count": 680,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 284
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-19T05:54:53.000Z",
+        "description": "负面情绪灌注ing…\n每天都在掉生命上限\n情商低说话可能会伤到你不过我会道歉\n努力活成大家喜欢的样子\n线下查无此人/社恐/🍥💊🔪🩸\n主人@slearthly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 68,
+                "username": "slearthly"
+              }
+            ]
+          }
+        },
+        "id": "2078716467781013504",
+        "is_identity_verified": false,
+        "location": "神奈川",
+        "most_recent_tweet_id": "2090718512541213080",
+        "name": "寒吟",
+        "pinned_tweet_id": "2090503342179201507",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078716467781013504/1787273947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090488146198962176/u_xAzrEm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 361,
+          "like_count": 1067,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 580
+        },
+        "url": "",
+        "username": "slearthly",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

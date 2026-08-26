@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087768379356831744"
+      ],
+      "media_source_tweet_id": [
+        "2088854264177402079"
+      ]
+    },
+    "author_id": "2032064554684026880",
+    "conversation_id": "2088959606135693464",
+    "created_at": "2026-08-16T12:02:35.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088959606135693464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2053082671308562432",
+          "start": 3,
+          "username": "Nobara_kugii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/id1llwMXi1",
+          "end": 41,
+          "expanded_url": "https://x.com/Nobara_kugii/status/2088854264177402079/photo/1",
+          "media_key": "3_2087768379356831744",
+          "start": 18,
+          "url": "https://t.co/id1llwMXi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088959606135693464",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2087768379356831744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 544
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088854264177402079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nobara_kugii: https://t.co/id1llwMXi1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2087768379356831744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPk-R5DbYAA0S-E.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087768379356831744"
+          ],
+          "media_source_tweet_id": [
+            "2088854264177402079"
+          ]
+        },
+        "author_id": "2032064554684026880",
+        "conversation_id": "2088959606135693464",
+        "created_at": "2026-08-16T12:02:35.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088959606135693464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2053082671308562432",
+              "start": 3,
+              "username": "Nobara_kugii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/id1llwMXi1",
+              "end": 41,
+              "expanded_url": "https://x.com/Nobara_kugii/status/2088854264177402079/photo/1",
+              "media_key": "3_2087768379356831744",
+              "start": 18,
+              "url": "https://t.co/id1llwMXi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088959606135693464",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087768379356831744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 544
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088854264177402079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nobara_kugii: https://t.co/id1llwMXi1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087768379356831744"
+          ]
+        },
+        "author_id": "2053082671308562432",
+        "conversation_id": "2088854264177402079",
+        "created_at": "2026-08-16T05:04:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088854264177402079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/id1llwMXi1",
+              "end": 23,
+              "expanded_url": "https://x.com/Nobara_kugii/status/2088854264177402079/photo/1",
+              "media_key": "3_2087768379356831744",
+              "start": 0,
+              "url": "https://t.co/id1llwMXi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088854264177402079",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087768379356831744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 14633,
+          "like_count": 2662,
+          "quote_count": 13,
+          "reply_count": 1,
+          "retweet_count": 544
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/id1llwMXi1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "💊🩸🔪",
+        "most_recent_tweet_id": "2088959606135693464",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2083677542167491044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 88,
+          "like_count": 615,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T12:00:28.000Z",
+        "description": "✩ ✮ 𖤓ᰔ 𐔌՞ ܸ.ˬ.ܸ՞𐦯",
+        "id": "2053082671308562432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088951655907865035",
+        "name": "𖤓",
+        "pinned_tweet_id": "2055939888428486950",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053082671308562432/1778328255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053083138071646208/otm2MCLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1893,
+          "following_count": 1004,
+          "like_count": 2183,
+          "listed_count": 3,
+          "media_count": 1209,
+          "tweet_count": 2043
+        },
+        "url": "",
+        "username": "Nobara_kugii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

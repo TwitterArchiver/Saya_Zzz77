@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2077593359783473554",
+    "created_at": "2026-07-16T03:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077593359783473554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/saya7",
+          "end": 23,
+          "expanded_url": "https://ngl.link/saya7",
+          "start": 0,
+          "status": 200,
+          "title": "@saya7: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/saya7",
+          "url": "https://t.co/BPuCjI8EIw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077593359783473554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/BPuCjI8EIw\n\n有人想跟我玩這個嗎我想互動呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2077593359783473554",
+        "created_at": "2026-07-16T03:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077593359783473554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/saya7",
+              "end": 23,
+              "expanded_url": "https://ngl.link/saya7",
+              "start": 0,
+              "status": 200,
+              "title": "@saya7: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/saya7",
+              "url": "https://t.co/BPuCjI8EIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077593359783473554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BPuCjI8EIw\n\n有人想跟我玩這個嗎我想互動呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 86,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false
+      }
+    ]
+  }
+}

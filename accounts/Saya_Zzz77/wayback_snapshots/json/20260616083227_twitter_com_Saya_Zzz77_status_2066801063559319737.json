@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066308187054292992"
+      ],
+      "media_source_tweet_id": [
+        "2066308189059227897"
+      ]
+    },
+    "author_id": "2032064554684026880",
+    "conversation_id": "2066801063559319737",
+    "created_at": "2026-06-16T08:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T09:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066801063559319737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1299312684991569920",
+          "start": 3,
+          "username": "DanJack67524194"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hQ1BHL6DEw",
+          "end": 53,
+          "expanded_url": "https://x.com/DanJack67524194/status/2066308189059227897/photo/1",
+          "media_key": "3_2066308187054292992",
+          "start": 30,
+          "url": "https://t.co/hQ1BHL6DEw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066801063559319737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066308189059227897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @DanJack67524194: 哥們快被刀草沒了 https://t.co/hQ1BHL6DEw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2066308187054292992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0AWS3aQAAI7BZ.jpg",
+        "width": 746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066308187054292992"
+          ],
+          "media_source_tweet_id": [
+            "2066308189059227897"
+          ]
+        },
+        "author_id": "2032064554684026880",
+        "conversation_id": "2066801063559319737",
+        "created_at": "2026-06-16T08:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066801063559319737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1299312684991569920",
+              "start": 3,
+              "username": "DanJack67524194"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQ1BHL6DEw",
+              "end": 53,
+              "expanded_url": "https://x.com/DanJack67524194/status/2066308189059227897/photo/1",
+              "media_key": "3_2066308187054292992",
+              "start": 30,
+              "url": "https://t.co/hQ1BHL6DEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066801063559319737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066308189059227897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @DanJack67524194: 哥們快被刀草沒了 https://t.co/hQ1BHL6DEw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066308187054292992"
+          ]
+        },
+        "author_id": "1299312684991569920",
+        "conversation_id": "2066308189059227897",
+        "created_at": "2026-06-14T23:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T00:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066308189059227897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQ1BHL6DEw",
+              "end": 32,
+              "expanded_url": "https://x.com/DanJack67524194/status/2066308189059227897/photo/1",
+              "media_key": "3_2066308187054292992",
+              "start": 9,
+              "url": "https://t.co/hQ1BHL6DEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066308189059227897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 107216,
+          "like_count": 2235,
+          "quote_count": 13,
+          "reply_count": 70,
+          "retweet_count": 109
+        },
+        "reply_settings": "verified",
+        "text": "哥們快被刀草沒了 https://t.co/hQ1BHL6DEw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 78,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 94
+        },
+        "username": "Saya_Zzz77",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T11:48:01.000Z",
+        "description": "大擴張時代暫停 現在專心經營推特 \n沒有多餘的時間可以用threads 和ig了\n喜歡coser和fgo 愛發迷因\n想笑一笑的歡迎留步",
+        "id": "1299312684991569920",
+        "location": "羅馬帝國—君士坦丁堡",
+        "name": "狐曌🦊發我詐騙廣告的都是台獨",
+        "pinned_tweet_id": "1758852769707147607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923538905741111296/OuHg0oGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8012,
+          "following_count": 2107,
+          "like_count": 32682,
+          "listed_count": 21,
+          "media_count": 7622,
+          "tweet_count": 34270
+        },
+        "username": "DanJack67524194",
+        "verified": false
+      }
+    ]
+  }
+}

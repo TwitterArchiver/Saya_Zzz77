@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073526675632238592",
+        "3_2073526675628007425",
+        "3_2073526675657355264",
+        "3_2073526675623890944"
+      ]
+    },
+    "author_id": "2032064554684026880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2073526688873582632",
+    "created_at": "2026-07-04T21:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T22:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073526688873582632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oPBrNvab1v",
+          "end": 34,
+          "expanded_url": "https://x.com/Saya_Zzz77/status/2073526688873582632/photo/1",
+          "media_key": "3_2073526675632238592",
+          "start": 11,
+          "url": "https://t.co/oPBrNvab1v"
+        },
+        {
+          "display_url": "pic.x.com/oPBrNvab1v",
+          "end": 34,
+          "expanded_url": "https://x.com/Saya_Zzz77/status/2073526688873582632/photo/1",
+          "media_key": "3_2073526675628007425",
+          "start": 11,
+          "url": "https://t.co/oPBrNvab1v"
+        },
+        {
+          "display_url": "pic.x.com/oPBrNvab1v",
+          "end": 34,
+          "expanded_url": "https://x.com/Saya_Zzz77/status/2073526688873582632/photo/1",
+          "media_key": "3_2073526675657355264",
+          "start": 11,
+          "url": "https://t.co/oPBrNvab1v"
+        },
+        {
+          "display_url": "pic.x.com/oPBrNvab1v",
+          "end": 34,
+          "expanded_url": "https://x.com/Saya_Zzz77/status/2073526688873582632/photo/1",
+          "media_key": "3_2073526675623890944",
+          "start": 11,
+          "url": "https://t.co/oPBrNvab1v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073526688873582632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我們還剩下多少個明天 https://t.co/oPBrNvab1v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073526675632238592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMalhoVbMAA6d5J.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073526675628007425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMalhoUaoAEkKfw.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073526675657355264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMalhobacAAlJ40.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073526675623890944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMalhoTb0AAelN7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073526675632238592",
+            "3_2073526675628007425",
+            "3_2073526675657355264",
+            "3_2073526675623890944"
+          ]
+        },
+        "author_id": "2032064554684026880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073526688873582632",
+        "created_at": "2026-07-04T21:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T22:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073526688873582632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oPBrNvab1v",
+              "end": 34,
+              "expanded_url": "https://x.com/Saya_Zzz77/status/2073526688873582632/photo/1",
+              "media_key": "3_2073526675632238592",
+              "start": 11,
+              "url": "https://t.co/oPBrNvab1v"
+            },
+            {
+              "display_url": "pic.x.com/oPBrNvab1v",
+              "end": 34,
+              "expanded_url": "https://x.com/Saya_Zzz77/status/2073526688873582632/photo/1",
+              "media_key": "3_2073526675628007425",
+              "start": 11,
+              "url": "https://t.co/oPBrNvab1v"
+            },
+            {
+              "display_url": "pic.x.com/oPBrNvab1v",
+              "end": 34,
+              "expanded_url": "https://x.com/Saya_Zzz77/status/2073526688873582632/photo/1",
+              "media_key": "3_2073526675657355264",
+              "start": 11,
+              "url": "https://t.co/oPBrNvab1v"
+            },
+            {
+              "display_url": "pic.x.com/oPBrNvab1v",
+              "end": 34,
+              "expanded_url": "https://x.com/Saya_Zzz77/status/2073526688873582632/photo/1",
+              "media_key": "3_2073526675623890944",
+              "start": 11,
+              "url": "https://t.co/oPBrNvab1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073526688873582632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我們還剩下多少個明天 https://t.co/oPBrNvab1v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "location": "💊🩸🔪",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2061910685202964545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 78,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false
+      }
+    ]
+  }
+}

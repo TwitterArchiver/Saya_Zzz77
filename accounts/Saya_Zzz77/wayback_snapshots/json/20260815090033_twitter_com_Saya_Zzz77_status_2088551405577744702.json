@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088475658917675008"
+      ],
+      "media_source_tweet_id": [
+        "2088475665771196493"
+      ]
+    },
+    "author_id": "2032064554684026880",
+    "conversation_id": "2088551405577744702",
+    "created_at": "2026-08-15T09:00:33.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088551405577744702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2034465952830775298",
+          "start": 3,
+          "username": "cutterexicfreak"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ALCp41yCiP",
+          "end": 85,
+          "expanded_url": "https://x.com/cutterexicfreak/status/2088475665771196493/photo/1",
+          "media_key": "3_2088475658917675008",
+          "start": 62,
+          "url": "https://t.co/ALCp41yCiP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088551405577744702",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2088475658917675008"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 131
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088475665771196493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cutterexicfreak: phew! good thing its not a kai GAY razor https://t.co/ALCp41yCiP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1566,
+        "media_key": "3_2088475658917675008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvBi-vWgAAOKPA.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088475658917675008"
+          ],
+          "media_source_tweet_id": [
+            "2088475665771196493"
+          ]
+        },
+        "author_id": "2032064554684026880",
+        "conversation_id": "2088551405577744702",
+        "created_at": "2026-08-15T09:00:33.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088551405577744702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2034465952830775298",
+              "start": 3,
+              "username": "cutterexicfreak"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ALCp41yCiP",
+              "end": 85,
+              "expanded_url": "https://x.com/cutterexicfreak/status/2088475665771196493/photo/1",
+              "media_key": "3_2088475658917675008",
+              "start": 62,
+              "url": "https://t.co/ALCp41yCiP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088551405577744702",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088475658917675008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088475665771196493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cutterexicfreak: phew! good thing its not a kai GAY razor https://t.co/ALCp41yCiP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088475658917675008"
+          ]
+        },
+        "author_id": "2034465952830775298",
+        "conversation_id": "2088475665771196493",
+        "created_at": "2026-08-15T03:59:35.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088475665771196493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ALCp41yCiP",
+              "end": 64,
+              "expanded_url": "https://x.com/cutterexicfreak/status/2088475665771196493/photo/1",
+              "media_key": "3_2088475658917675008",
+              "start": 41,
+              "url": "https://t.co/ALCp41yCiP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088475665771196493",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088475658917675008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 4918,
+          "like_count": 964,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "phew! good thing its not a kai GAY razor https://t.co/ALCp41yCiP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "💊🩸🔪",
+        "most_recent_tweet_id": "2088551405577744702",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2083677542167491044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 90,
+          "like_count": 603,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-19T03:04:58.000Z",
+        "description": "🩸 friendliest degenerate ・・・𑣲 #cannibaltwt × #obslovetwt 𑁤\n⧽ ⧽ ⧽ 💌 https://t.co/1C2PdZHnsf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 30,
+                "tag": "cannibaltwt"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "tag": "obslovetwt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cutterexicfreak.straw.page",
+                "end": 90,
+                "expanded_url": "https://cutterexicfreak.straw.page",
+                "start": 67,
+                "url": "https://t.co/1C2PdZHnsf"
+              }
+            ]
+          }
+        },
+        "id": "2034465952830775298",
+        "is_identity_verified": false,
+        "location": "♱ in recovery 🫀",
+        "most_recent_tweet_id": "2088550192203128974",
+        "name": "ｃａｎｎｉｂａｌ : ifb",
+        "pinned_tweet_id": "2086940069420769334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2034465952830775298/1784068942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077163286974320640/pYJOOnwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 343,
+          "like_count": 2157,
+          "listed_count": 9,
+          "media_count": 84,
+          "tweet_count": 1386
+        },
+        "url": "",
+        "username": "cutterexicfreak",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
