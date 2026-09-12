@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2093548705714782432",
+    "created_at": "2026-08-29T03:58:02.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T04:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093548705714782432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592120524276002817",
+          "start": 3,
+          "username": "c17desuwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093548705714782432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093378526225592738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @c17desuwa: 前额叶被我放生了，杏仁核也是做成每日坚果了，松果体还给松鼠了，海马体更是回归大海了。   ​\n​然后我看大家都在问我说一下，海绵体拍动画片去了，内容是和一个傻逼海星抓水母。别问了本来就不打算捐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2093548705714782432",
+        "created_at": "2026-08-29T03:58:02.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T04:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093548705714782432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592120524276002817",
+              "start": 3,
+              "username": "c17desuwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093548705714782432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093378526225592738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @c17desuwa: 前额叶被我放生了，杏仁核也是做成每日坚果了，松果体还给松鼠了，海马体更是回归大海了。   ​\n​然后我看大家都在问我说一下，海绵体拍动画片去了，内容是和一个傻逼海星抓水母。别问了本来就不打算捐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592120524276002817",
+        "conversation_id": "2093378526225592738",
+        "created_at": "2026-08-28T16:41:48.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T17:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093378526225592738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093378526225592738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 4385,
+          "like_count": 231,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "前额叶被我放生了，杏仁核也是做成每日坚果了，松果体还给松鼠了，海马体更是回归大海了。   ​\n​然后我看大家都在问我说一下，海绵体拍动画片去了，内容是和一个傻逼海星抓水母。别问了本来就不打算捐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n入🚪請私信 我置頂被下了qwq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "🔪💊🩸",
+        "most_recent_tweet_id": "2093548705714782432",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2091104886553559041",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 129,
+          "like_count": 712,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-14T11:41:35.000Z",
+        "description": "交友大欢迎呀。ദ്ദി˶˃ ᵕ ˂ )✧\nhttps://t.co/6qCGM5cV42 欢迎！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/c17desuwa",
+                "end": 44,
+                "expanded_url": "https://ngl.link/c17desuwa",
+                "start": 21,
+                "url": "https://t.co/6qCGM5cV42"
+              }
+            ]
+          }
+        },
+        "id": "1592120524276002817",
+        "is_identity_verified": false,
+        "location": "距你114514m",
+        "most_recent_tweet_id": "2093384577658347628",
+        "name": "c17",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592120524276002817/1763978208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051947732286439425/BrPQMAVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 308,
+          "like_count": 790,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 2242
+        },
+        "url": "",
+        "username": "c17desuwa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

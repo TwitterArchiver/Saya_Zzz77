@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032064554684026880",
+    "conversation_id": "2095339326079213846",
+    "created_at": "2026-09-03T02:33:19.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T03:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095339326079213846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1012035166909485059",
+          "start": 3,
+          "username": "erica_kapoor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095339326079213846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 467
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094639731581841662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @erica_kapoor: 我的性癖和我的女权主义在互殴。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2095339326079213846",
+        "created_at": "2026-09-03T02:33:19.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T03:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095339326079213846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1012035166909485059",
+              "start": 3,
+              "username": "erica_kapoor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095339326079213846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 467
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094639731581841662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @erica_kapoor: 我的性癖和我的女权主义在互殴。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1012035166909485059",
+        "conversation_id": "2094639731581841662",
+        "created_at": "2026-09-01T04:13:23.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094639731581841662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094639731581841662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 363,
+          "impression_count": 518894,
+          "like_count": 8827,
+          "quote_count": 49,
+          "reply_count": 607,
+          "retweet_count": 467
+        },
+        "reply_settings": "everyone",
+        "text": "我的性癖和我的女权主义在互殴。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n入🚪請私信 我置頂被下了qwq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "🔪💊🩸",
+        "most_recent_tweet_id": "2095339326079213846",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2091104886553559041",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 123,
+          "like_count": 722,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 342
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-27T18:09:21.000Z",
+        "description": "祝我快乐",
+        "id": "1012035166909485059",
+        "is_identity_verified": false,
+        "location": "3.1km",
+        "most_recent_tweet_id": "2095164759968735495",
+        "name": "zzy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1012035166909485059/1785917003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084913091515731968/NXIXH8Lp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 39,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "erica_kapoor",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
